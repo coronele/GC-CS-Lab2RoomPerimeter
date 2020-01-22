@@ -1,0 +1,11 @@
+C:\Users\coronele\source\repos\Lab 2 - Room Calculator\Lab 2 - Room Calculator\bin\Debug\netcoreapp3.0\Lab 2 - Room Calculator.exe
+C:\Users\coronele\source\repos\Lab 2 - Room Calculator\Lab 2 - Room Calculator\bin\Debug\netcoreapp3.0\Lab 2 - Room Calculator.deps.json
+C:\Users\coronele\source\repos\Lab 2 - Room Calculator\Lab 2 - Room Calculator\bin\Debug\netcoreapp3.0\Lab 2 - Room Calculator.runtimeconfig.json
+C:\Users\coronele\source\repos\Lab 2 - Room Calculator\Lab 2 - Room Calculator\bin\Debug\netcoreapp3.0\Lab 2 - Room Calculator.runtimeconfig.dev.json
+C:\Users\coronele\source\repos\Lab 2 - Room Calculator\Lab 2 - Room Calculator\bin\Debug\netcoreapp3.0\Lab 2 - Room Calculator.dll
+C:\Users\coronele\source\repos\Lab 2 - Room Calculator\Lab 2 - Room Calculator\bin\Debug\netcoreapp3.0\Lab 2 - Room Calculator.pdb
+C:\Users\coronele\source\repos\Lab 2 - Room Calculator\Lab 2 - Room Calculator\obj\Debug\netcoreapp3.0\Lab 2 - Room Calculator.csprojAssemblyReference.cache
+C:\Users\coronele\source\repos\Lab 2 - Room Calculator\Lab 2 - Room Calculator\obj\Debug\netcoreapp3.0\Lab 2 - Room Calculator.AssemblyInfoInputs.cache
+C:\Users\coronele\source\repos\Lab 2 - Room Calculator\Lab 2 - Room Calculator\obj\Debug\netcoreapp3.0\Lab 2 - Room Calculator.AssemblyInfo.cs
+C:\Users\coronele\source\repos\Lab 2 - Room Calculator\Lab 2 - Room Calculator\obj\Debug\netcoreapp3.0\Lab 2 - Room Calculator.dll
+C:\Users\coronele\source\repos\Lab 2 - Room Calculator\Lab 2 - Room Calculator\obj\Debug\netcoreapp3.0\Lab 2 - Room Calculator.pdb
